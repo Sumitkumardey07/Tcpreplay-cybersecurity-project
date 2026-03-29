@@ -22,7 +22,7 @@ This project demonstrates how to use Tcpreplay in Kali Linux to simulate network
 ![Packet Capture](Screenshots/capture.png)
 
 ### Replay Traffic using Wireshark
-![Replay Traffic](screenshots/Replaytraffic.png)
+![Replay Traffic](screenshorts/Replaytraffic.png)
 
 ## 📄 Project Report
 [Download Report](./report.pdf)
