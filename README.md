@@ -25,7 +25,7 @@ This project demonstrates how to use Tcpreplay in Kali Linux to simulate network
 ![Replay Traffic](screenshots/Replaytraffic.png)
 
 ## 📄 Project Report
-[Download Report](./Projectreport.pdf)
+[Download Report](./report.pdf)
 
 ## 🎯 Learning Outcome
 - Understanding of packet replay attacks
